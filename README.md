@@ -1,8 +1,15 @@
 # Coffecult-X-Stop War
-CA : 
-<!DOCTYPE html>
 <html lang="id">
-<head>
+<head> <div style="text-align: center;">
+  <img 
+    src="https://example.com/coffeecult-stopwar.jpg" 
+    alt="STOP WAR $Coffeecult" 
+    style="width: 100%; max-width: 500px; border-radius: 50%; border: 4px solid #8B4513; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
+  />
+  <p style="margin-top: 10px; font-family: Arial; color: #3e2723;">
+    <strong>STOP WAR</strong> • $Coffeecult
+  </p>
+</div>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>$COFFEE CULT • Stop War • Solana Token</title>
