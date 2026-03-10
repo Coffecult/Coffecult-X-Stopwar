@@ -4,6 +4,57 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>$Coffeecult - Stop War</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      background: #0f0f0f;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: system-ui, sans-serif;
+    }
+    .container {
+      text-align: center;
+      padding: 20px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+      border: 1px solid #444;
+    }
+    h1 {
+      color: #e0c070;
+      margin: 20px 0 8px;
+      font-size: 2.1rem;
+      text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+    }
+    .ticker {
+      color: #ff4444;
+      font-size: 1.3rem;
+      margin: 0;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <img src="image.jpeg" alt="$Coffeecult - Stop War meme" />
+    <h1>$Coffeecult</h1>
+    <p class="ticker">STOP WAR ☕⚔️</p>
+  </div>
+
+</body>
+</html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>$COFFEE CULT • STOP WAR ☕⚔️</title>
   <meta name="description" content="Join the Coffee Cult. Stop war. Drink coffee. $Coffeecult memecoin powered by caffeine and peace vibes."/>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☕</text></svg>"/>
